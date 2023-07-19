@@ -1,7 +1,6 @@
 # kang-ismet.com
 
-
-<!-----di atas </head>----------->
+<!--di atas </head> -->
 <style type='text/css'>
 .sidebar {display:none}
 </style>
@@ -18,6 +17,6 @@
 <!-- Theme CSS -->
 <link href='https://www.kang-ismet.com/main/css/style.css' rel='stylesheet' type='text/css'/>
 
-<!-----di atas </body>----------->
+<!-- di atas </body> -->
 <script defer='defer' onload='viewCounterLoaded()' src='https://cdn.jsdelivr.net/gh/kanguis/assets@main/js/bundle.js'></script>
 <script src='https://www.kang-ismet.com/main/js/bootstrap.min.js'></script>
